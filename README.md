@@ -15,13 +15,13 @@
 Download or Clone
 
 ```sh
-git clone https://github.com/livealvi/Ecommerce--Full-Stack--NEXT-App.git
+git clone https://github.com/thesanjida/next-js-eCommerce-app--full-stack.git
 ```
 
 #### Step - 2
 
 ```bash
-cd Ecommerce--Full-Stack--NEXT-App
+cd next-js-eCommerce-app--full-stack
 ```
 
 #### Step - 4
